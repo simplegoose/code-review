@@ -1,0 +1,15 @@
+@media only screen and (min-width: 815px) {
+  #navbar {
+    position: absolute;
+    width: 50%;
+    top: 0;
+    left: 0;
+    height: 100%;
+  }
+
+  #main-doc {
+    position: relative;
+    width: 50%;
+    margin-left: 50%;
+  }
+}
